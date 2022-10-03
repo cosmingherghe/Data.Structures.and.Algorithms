@@ -1,5 +1,13 @@
 public class Recursion {
-  
+
+
+  //How to find GCD (Greatest Common Divisor) of two numbers using recursion?   
+  public static int gcdOf2No(int a, int b) {
+    if(a<b) {
+      
+    }
+  }
+
   // How to calculate power of a positive int using recursion ? 
   public static int numPow(int n, int pow) {
     if(pow < 2) {

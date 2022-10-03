@@ -1,6 +1,10 @@
 public class Sandbox
 {
 	public static void main(String[] args) {
+
+
+    //Calculate loan
+    // Swissknife.computeLoan(5.6, 10, 20000);
 		
     // How to calculate power of a positive int using recursion ?  
     // System.out.println( Recursion.numPow(2, 3) );
