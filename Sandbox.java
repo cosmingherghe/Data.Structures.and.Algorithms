@@ -2,9 +2,13 @@ public class Sandbox
 {
 	public static void main(String[] args) {
 
+        System.out.println((int)('{') + " " + (int)('}'));
+        System.out.println((int)('(') + " " + (int)(')'));
+        System.out.println((int)('[') + " " + (int)(']'));
+        System.out.println((int)('<') + " " + (int)('>'));
 
     //Calculate loan
-    // Swissknife.computeLoan(5.6, 10, 20000);
+    //Swissknife.computeLoan(5.6, 10, 20000);
 		
     // How to calculate power of a positive int using recursion ?  
     // System.out.println( Recursion.numPow(2, 3) );
